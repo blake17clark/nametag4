@@ -1,0 +1,41 @@
+body {
+    /*   border: solid; */
+      height: 250px;
+      width: 400px;
+      margin: auto
+    }
+    header{
+      background-color: red;
+      border-top-right-radius: 20px; 
+      border-top-left-radius: 20px;
+      font-family: helvetica, sans-serif; 
+        
+    /*   margin: auto; */
+    }
+    .hello{
+      font-size: 60px;
+      color: white; 
+      text-align: center;
+      font-weight: bold;
+      letter-spacing: 8px;
+    }
+    .name{
+      font-size: 30px;
+      color: white;
+      text-align: center;
+    }
+    p{
+      font-size: 80px;
+      font-family: helvetica, cursive;
+      text-align: center;
+      border-bottom: dotted;
+      margin: auto;
+      height: 100px;
+     
+    }
+    footer{
+      background-color: red;
+      height: 42px;
+      border-bottom-right-radius: 20px; 
+      border-bottom-left-radius: 20px
+    }
